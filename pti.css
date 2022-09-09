@@ -1,0 +1,200 @@
+#bloco2{
+  position: absolute;
+  width: 796px;
+  height: 1410px;
+  left: 722px;
+  top: 0px;
+  background-color: #a4be98;
+}
+
+#bloco1{
+  position: absolute;
+  width: 719px;
+  height: 1410px;
+  left: 0px;
+  top: 0px;
+}
+
+#nome{
+  position: absolute;
+  width: 538px;
+  height: 112px;
+  left: 90px;
+  top: 158px;
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 16px;
+  line-height: 30px;
+  text-align: left;
+
+}
+
+#nome span{
+  font-size: 22px;
+  font-family: 'Literata';
+  font-weight: 700;
+}
+
+#nome #senac{
+  font-size: 16px;
+  font-family: 'Literata';
+  font-weight: 700;
+  color: #cb6e10e8;
+}
+
+#contato{
+  position: absolute;
+  width: 429px;
+  height: 95px;
+  left: 90px;
+  top: 270px;
+  font-family: 'Literata'; 
+  font-style:normal;
+  font-weight: lighter;
+  font-size: 14px;
+  line-height: 30px;
+  line-height: 100%;
+  text-align: left;
+  vertical-align: top;
+}
+
+#contato span{
+  font-family: 'Literata';
+  font-weight: 700;
+
+}
+
+#linkedin{
+  position: absolute;
+  width: 232px;
+  height: 28px;
+  left: 90px;
+  top: 365px;
+
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 14px;
+  line-height: 21px;
+  text-decoration-line: underline;
+
+  color: #000000;
+
+  text-align: left;
+}
+
+#git{
+  position: absolute;
+  width: 232px;
+  height: 28px;
+  left: 200px;
+  top: 365px;
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 14px;
+  line-height: 21px;
+  color: #000000;
+  text-align: left;
+}
+
+#descricao span{
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: left;
+}
+
+#descricao{
+  position: absolute;
+  width: 350px;
+  height: 187px;
+  left: 90px;
+  top: 420px;
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: left;
+}
+
+#skills{
+  position: absolute;
+  width: 293px;
+  height: 252px;
+  left: 90px;
+  top: 666px;  
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: left;
+  
+}
+
+#skills span{
+  font-family: 'Literata';
+  font-weight: 700;
+  font-size: 16px;
+}
+
+#exp{
+  position: absolute;
+  width: 365px;
+  height: 151px;
+  left: 90px;
+  top: 960px;
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+#exp span{
+  font-family: 'Literata';
+  font-weight: 700;
+  font-size: 16px;
+}
+
+#formacao{
+  position: absolute;
+  width: 300px;
+  height: 200px;
+  left: 90px;
+  top: 1105px;
+  font-family: 'Literata';
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: left;
+}
+
+#formacao span{
+  font-family: 'Literata';
+  font-weight: 700;
+  font-size: 16px;
+}
+
+#senacSimbolo{
+  position: absolute;
+  left: 500px;
+}
+
+#perfil{
+  position: absolute;
+  left: 274px;
+  top: 310px;
+  border-radius: 50px;
+  max-width:330px;
+  max-height:450px;
+  width: auto;
+  height: auto;
+  background-image: -webkit-image-set();
+}
